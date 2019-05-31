@@ -1,0 +1,9 @@
+test_setting:
+  test_setting_001:
+    name : "大山"
+  test_setting_002:
+    name : "大水"
+  test_setting_003:
+    name : "大天"
+  test_setting_004:
+    name : "大地"
