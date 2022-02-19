@@ -2,6 +2,11 @@ import page
 from base.base import Base
 
 
+
+
+
+
+
 class PageSetting(Base):
     # 点击放大镜
     def page_click_search(self):
